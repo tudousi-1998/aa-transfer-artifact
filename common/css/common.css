@@ -1,0 +1,87 @@
+/* 文字颜色 */
+.text1 {
+  color: #303133;
+}
+
+.text2 {
+  color: #606266;
+}
+
+.text3 {
+  color: #909399;
+}
+
+.text4 {
+  color: #c0c4cc;
+}
+
+/* 线条 */
+.cj-line {
+  height: 1rpx;
+  width: 100%;
+  background-color: #f3f4f6;
+  margin: 10rpx 0;
+}
+
+/* 布局 */
+.flex {
+  display: flex;
+}
+
+.row{
+	/* #ifndef APP-PLUS-NVUE */
+	display:flex;
+	/* #endif */
+	flex-direction:row;
+	align-items: center;
+}
+
+.center{
+	/* #ifndef APP-PLUS-NVUE */
+	display:flex;
+	/* #endif */
+	align-items: center;
+	justify-content: center;
+}
+
+.fill {
+  flex: 1;
+}
+
+/* scroll */
+.scroll {
+	width: 100%;
+  overflow: hidden;
+	white-space: nowrap;
+}
+
+.scroll::-webkit-scrollbar {
+  background-color: transparent;
+}
+
+.scroll-box {
+  display: inline-block;
+  margin-right: 10rpx;
+}
+
+/* 按下样式 */
+.hover-class {
+  opacity: 0.6;
+}
+
+/* 宽度 */
+.width90 {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 卡片 */
+.cj-card {
+  background-color: white;
+  box-shadow: 5rpx 5rpx 5rpx #F4F4F5;
+  border-radius: 16rpx;
+  padding: 20rpx;
+  overflow: hidden;
+  margin: 20rpx auto;
+}
