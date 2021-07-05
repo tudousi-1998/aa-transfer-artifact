@@ -26,7 +26,7 @@ https://github.com/tudousi-1998/aa-transfer-artifact
 
 ### 感谢您的支持：
 
-如果您认为改项目对您有用，您可以捐赠该项目的研发工作，感谢您的支持。
+如果您认为该项目对您有用，您可以捐赠该项目的研发工作，感谢您的支持。
 
 <center><img width="30%" align="left" src="https://user-images.githubusercontent.com/55579853/124433992-ed915880-dda5-11eb-96e9-4e25a6fdab2c.jpg" /><img width="30%" align="left" src="https://user-images.githubusercontent.com/55579853/124434114-131e6200-dda6-11eb-9a6f-5d9213a43d8f.jpg" /></center>
 
